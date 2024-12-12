@@ -110,14 +110,5 @@ messages: Stores undelivered messages.
 
 followers: Manages follow relationships.
 
-Appendix
 
-7.1 Application Snapshots
 
-Login Page
-
-Dashboard
-
-Chat Interface
-
-Currency Selector
